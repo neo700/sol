@@ -16,7 +16,7 @@ int profit(int prices[], int n)
     return pro;
 }
 
-
+//yeahhhh
 int main()
 {
 
